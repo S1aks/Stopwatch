@@ -1,4 +1,4 @@
-package com.gb.stopwatch
+package com.gb.stopwatch.viewmodel
 
 class TimestampMillisecondsFormatter {
 
