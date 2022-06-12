@@ -1,4 +1,6 @@
-package com.gb.stopwatch
+package com.gb.stopwatch.viewmodel
+
+import com.gb.stopwatch.model.data.StopwatchState
 
 class StopwatchStateHolder(
     private val stopwatchStateCalculator: StopwatchStateCalculator,
